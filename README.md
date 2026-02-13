@@ -1,4 +1,4 @@
-# Floating Around v.0.0.1-alpha
+# Floating Around
 
 **Floating Around** is a game created as a school project by **Karim Debbabi** and **[Michinex](https://github.com/michinex0805)**.  
 
@@ -17,4 +17,4 @@ There are a few bugs in the **loading and saving system** due to time constraint
    ```bash
    git clone https://github.com/K-Debbabi/Floating-Around.git
 
-Also you will need to have pycharm (python 3.12) with pygame to play the game
+Also you will need to have python 3.12 with pygame to play the game
