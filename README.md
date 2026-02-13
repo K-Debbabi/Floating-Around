@@ -1,4 +1,4 @@
-# Floating Around
+# Floating Around v.0.0.1-alpha
 
 **Floating Around** is a game created as a school project by **Karim Debbabi** and **[Michinex](https://github.com/michinex0805)**.  
 
