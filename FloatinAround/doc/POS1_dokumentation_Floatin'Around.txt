@@ -1,0 +1,7 @@
+Michael     12.05.2025          Startscreenfunktion
+Karim       12.05.2025          Umordnung von der start screenfunktion
+Michael     15.05.2025          Player inkl. health/thirst/hunger bar und ideen für Hai
+# Karim
+Karim       23.05.2025          Objekte und Haken
+Michael     25.05.2025          Guide
+Michael     10.06.2025          Player inkl. Animationen
